@@ -84,7 +84,7 @@ Check out this [useful blog post](https://hackp.ac/ghwapi24-oracle-23c-SQL) on h
 * You'll gain practical skills in Oracle APEX, as well as integration of AI and REST APIs while exploring how technology can enhance the experience of online book shopping.
 
 #### Documentation:
-* [This live lab features step by step instructions on how to complete this challenge](https://hackp.ac/ghwapi24-oracle-book-store-challenge)!
+* [You can use this workshop as reference for completing this challenge](https://hackp.ac/ghwapi24-oracle-book-store-challenge)!
   * Note: Instead of Lab 1: For creating Rest Data Source, use this [API](https://hackp.ac/ghwapi24-oracle-challenge4-api). 
 
 
