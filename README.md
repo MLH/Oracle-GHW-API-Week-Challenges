@@ -87,7 +87,7 @@ Check out this [useful blog post](https://hackp.ac/ghwapi24-oracle-23c-SQL) on h
 * [You can use this workshop as reference for completing this challenge](https://hackp.ac/ghwapi24-oracle-book-store-challenge)!
   * Note: Instead of Lab 1: For creating Rest Data Source, use this [API](https://hackp.ac/ghwapi24-oracle-challenge4-api). 
 
-## More Resources: 
+## More Resources
 * You can download 23C database for free and host your data locally using the following link: [https://hackp.ac/ghwapi24-oracle-23c](https://hackp.ac/ghwapi24-oracle-23c)
 * You can download Oracle's autonomous database for free with no payment information required here: [https://hackp.ac/ghwapi24-oracle-adb](https://hackp.ac/ghwapi24-oracle-adb)
 * You can also download an instance of Oracle Rest Data Services here: [https://hackp.ac/ghwapi24-oracle-restData](https://hackp.ac/ghwapi24-oracle-restData) 
